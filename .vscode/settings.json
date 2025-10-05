@@ -1,0 +1,6 @@
+{
+  "editor.indentSize": "tabSize",
+  "editor.guides.indentation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultColorDecorators": "auto"
+}
