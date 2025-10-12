@@ -15,4 +15,4 @@ For this project, there are several tasks that must be completed after learning:
 
 ### Screenshot the result game project:
 
-img(showcase.png)
+![showcae-project](showcase.png)
