@@ -10,7 +10,7 @@ function familyRoom() {
   let lampu3 = document.getElementById("lampu3");
 
   if (toggle1.checked) {
-    lampu1.src = "assets/images/on.gif";
+    lampu1.src = "./assets/images/on.gif";
   } else {
     lampu1.src = "assets/images/off.gif";
   }
